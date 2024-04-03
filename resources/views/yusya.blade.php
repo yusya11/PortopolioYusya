@@ -1,9 +1,7 @@
 <!doctype html>
-{{-- <a href="https://api.whatsapp.com/send?phone=085702481426">
-    <img class="hover:opacity-75" src="../img/wa.png">
-  </a> --}}
 <html> 
 <head> 
+  <title> Mohammad Haidar Yusya</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite('resources/css/app.css')
@@ -96,7 +94,7 @@
     <div class="w-1/3 ml-[-250px] justify-start">
         <div class="">
           <h1 class=" font-judul text-white text-5xl font-extrabold">About Me</h1>
-          <p class="font-judul text-gray-400 font-normal"> "Hai, saya Mohammad Haidar Yusya, seorang mahasiswa di Politeknik Harapan Bersama Kota Tegal. Saya juga seorang fotografer yang menekuni Dunia Fotografi sejak dibangku sekolah. Saya percaya bahwa fotografi adalah cara yang kuat untuk mengekspresikan diri dan menceritakan cerita. Saya senang terlibat dalam proyek-proyek fotografi dan berharap dapat terus berkembang di bidang ini."
+          <p class="font-judul text-gray-400 font-normal"> Hai, saya Mohammad Haidar Yusya, seorang mahasiswa di Politeknik Harapan Bersama Kota Tegal. Saya juga seorang fotografer yang menekuni Dunia Fotografi sejak dibangku sekolah. Saya percaya bahwa fotografi adalah cara yang kuat untuk mengekspresikan diri dan menceritakan cerita. Saya senang terlibat dalam proyek-proyek fotografi dan berharap dapat terus berkembang di bidang ini.
           </p>
         </div>
     </div>
