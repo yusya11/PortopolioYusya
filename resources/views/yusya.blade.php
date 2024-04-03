@@ -1,9 +1,7 @@
 <!doctype html>
-{{-- <a href="https://api.whatsapp.com/send?phone=085702481426">
-    <img class="hover:opacity-75" src="../img/wa.png">
-  </a> --}}
 <html> 
 <head> 
+    <title> Mohammad Haidar Yusya</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite('resources/css/app.css')
